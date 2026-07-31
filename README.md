@@ -1,1 +1,1 @@
-# mi-primer-repositorio
+Mi primer ejercicio en GitHub.
